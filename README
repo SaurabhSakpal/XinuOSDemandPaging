@@ -1,0 +1,10 @@
+To Build:
+go to compile directory and type follwoing two commands:
+make depend
+make all
+
+Running:
+Test Cases are to be tested individualy because Test Case 3 and Test Case 6, Although  giving PASSED!, it goes to continuos reboot because XINU cannot clean its state successfully. All other test cases are working fine!
+
+Cheeer!   
+
